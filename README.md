@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+    <img src="https://www.linkedin.com/in/bibhuti-bhusan-swain-1b6135229/">
   </a>
   <a href="YOUR_LEETCODE_URL">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange">
